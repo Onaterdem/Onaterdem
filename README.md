@@ -1,6 +1,6 @@
 - Hi! I'm Onat Erdem.
 - I’m interested in video games of all kinds, art, technology, and science.
-- I’m currently learning currently a 4th year student studying Computer Engineering in METU.
+- I’m currently a 4th year student studying Computer Engineering in METU.
 - I don't have any repos or projects on my profile because I've worked on private repos of others so far. I would like for that to change though!
 
 <!---
